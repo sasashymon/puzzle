@@ -2,11 +2,11 @@ Práce se zaměřuje na praktické ověření principů digitálně distribuovan
 
 Seznam souborů:
 
-proUzivatele.pdf – tento průvodce výrobou
-proVyrobce.pdf – poznámky pro výrobce
-sedak[18/21].dxf, strana[18/21].dxf – kontury dílů
-puzzle[18/21].stp – 3D model
-vykres[18/21].pdf – technický výkres dílů
+proUzivatele.pdf – tento průvodce výrobou 
+proVyrobce.pdf – poznámky pro výrobce 
+sedak[18/21].dxf, strana[18/21].dxf – kontury dílů 
+puzzle[18/21].stp – 3D model 
+vykres[18/21].pdf – technický výkres dílů 
 puzzleParam.f3d – parametrický model pro úpravu v Autodesk Fusion
 
 Soubory jsou připraveny pro materiál o tloušťce 18 a 21 mm. V případě použití jiné tloušťky materiálu je k dispozici parametrický model ve formátu F3D (pro Autodesk Fusion), který umožňuje snadnou úpravu.
